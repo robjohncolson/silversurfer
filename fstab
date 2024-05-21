@@ -1,0 +1,5 @@
+## file system    mount point   type    options                  dump pass
+PARTUUID="f54876ee-bec4-44e6-9e21-3d830c816722"         /             ext4    defaults                 0    1
+PARTUUID="1ab22a88-fd00-4594-a245-a82477d09db3"         none          swap    sw                       0    0
+PARTUUID="712c172c-ec08-42ce-9798-416831a267b6"		/boot/efi	vfat	defaults	0	0
+proc             /proc         proc    defaults                 0    0
